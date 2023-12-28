@@ -1,0 +1,10 @@
+[0:00:00 - 0:00:22]
+Shows the platform/chip-name which the program runs on
+[0:00:22 - 0:01:14]
+Build & Run, inference cost [621.55ms], using model [modified_deepdeblur_GOPRO-L1_snpe-2.13_quantize_cached_v68.dlc]; input image [Istanbul_blur1.png]; device [dsp]
+[0:01:14 - 0:01:29]
+Compare the model output with its input.
+[0:01:29 - 0:01:52]
+Select another input image [Flower_blur1.png]; build & rerun, inference cost [620.613ms]
+[0:01:52 - 0:02:05]
+Compare the model output with its input.
